@@ -18,6 +18,5 @@ public class Task12_2 {
             }
             System.out.println();
         }
-
     }
 }
